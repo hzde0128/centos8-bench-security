@@ -26,10 +26,10 @@ main () {
   yell "# ------------------------------------------------------------------------------
 # CentOS Bench for Security 
 # 
-# Based on 'CIS_CentOS_Linux_7_Benchmark_v2.2.0 (12-27-2017)'
+# Based on 'CIS_CentOS_Linux_8_Benchmark_v1.1.0 (10-31-2019)'
 # https://www.cisecurity.org/cis-benchmarks/
 #
-# Björn Oscarsson (c) 2017-
+# Jerry Wong @ 2020
 #
 # Inspired by the Docker Bench for Security.
 # ------------------------------------------------------------------------------"
