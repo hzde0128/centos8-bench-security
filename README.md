@@ -1,6 +1,6 @@
 # CentOS8 Bench for Security
 
-![CentOS Bench for Security running](screenshot.png "CentOS Bench for Security running")
+![CentOS Bench for Security running](assets/screenshot.png "CentOS Bench for Security running")
 
 CentOS Bench for Security is a script that implements checks which follows the [CIS CentOS Linux 8 Benchmark](http://benchmarks.cisecurity.org) and is highly inspired by [Docker Bench for Security](https://github.com/docker/docker-bench-security).
 
